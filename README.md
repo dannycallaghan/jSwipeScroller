@@ -4,6 +4,10 @@ Will complete this, and add a demo, when I have the time. Apologies.
 
 A horizontal scrolling component, primarily for mobile devices, based on the scrolling articles list seen in the iOS BBC News app.
 
+## Note
+
+This was developed for the redesign of the Orange UK mobile portal in 2012, and indeed it was used on the launched homepage. However, subsequent iOS updates means that this now no longer works as it should. I'm no longer supporting it.
+
 ## Features
 
 - Allows for swipe left and right gestures.
